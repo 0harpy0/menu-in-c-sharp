@@ -1,0 +1,88 @@
+C:\Users\LabInfo\Downloads\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.deps.json
+C:\Users\LabInfo\Downloads\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.runtimeconfig.json
+C:\Users\LabInfo\Downloads\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.runtimeconfig.dev.json
+C:\Users\LabInfo\Downloads\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.dll
+C:\Users\LabInfo\Downloads\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.pdb
+C:\Users\LabInfo\Downloads\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.csproj.AssemblyReference.cache
+C:\Users\LabInfo\Downloads\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Downloads\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.AssemblyInfoInputs.cache
+C:\Users\LabInfo\Downloads\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.AssemblyInfo.cs
+C:\Users\LabInfo\Downloads\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.dll
+C:\Users\LabInfo\Downloads\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.pdb
+C:\Users\LabInfo\Downloads\NovoMenu\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.deps.json
+C:\Users\LabInfo\Downloads\NovoMenu\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.runtimeconfig.json
+C:\Users\LabInfo\Downloads\NovoMenu\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.runtimeconfig.dev.json
+C:\Users\LabInfo\Downloads\NovoMenu\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.dll
+C:\Users\LabInfo\Downloads\NovoMenu\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.pdb
+C:\Users\LabInfo\Downloads\NovoMenu\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.csproj.AssemblyReference.cache
+C:\Users\LabInfo\Downloads\NovoMenu\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Downloads\NovoMenu\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.AssemblyInfoInputs.cache
+C:\Users\LabInfo\Downloads\NovoMenu\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.AssemblyInfo.cs
+C:\Users\LabInfo\Downloads\NovoMenu\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.dll
+C:\Users\LabInfo\Downloads\NovoMenu\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.pdb
+C:\Users\LabInfo\Downloads\NovoMenu 2\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.csproj.AssemblyReference.cache
+C:\Users\LabInfo\Downloads\NovoMenu 2\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Downloads\NovoMenu 2\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.AssemblyInfoInputs.cache
+C:\Users\LabInfo\Downloads\NovoMenu 2\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.AssemblyInfo.cs
+C:\Users\LabInfo\Downloads\NovoMenu 2\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.dll
+C:\Users\LabInfo\Downloads\NovoMenu 2\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.pdb
+C:\Users\LabInfo\Downloads\NovoMenu 2\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.deps.json
+C:\Users\LabInfo\Downloads\NovoMenu 2\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.runtimeconfig.json
+C:\Users\LabInfo\Downloads\NovoMenu 2\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.runtimeconfig.dev.json
+C:\Users\LabInfo\Downloads\NovoMenu 2\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.dll
+C:\Users\LabInfo\Downloads\NovoMenu 2\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.pdb
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-02\NovoMenu 3\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.deps.json
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-02\NovoMenu 3\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.runtimeconfig.json
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-02\NovoMenu 3\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.runtimeconfig.dev.json
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-02\NovoMenu 3\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.dll
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-02\NovoMenu 3\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.pdb
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-02\NovoMenu 3\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.csproj.AssemblyReference.cache
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-02\NovoMenu 3\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-02\NovoMenu 3\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.AssemblyInfoInputs.cache
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-02\NovoMenu 3\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.AssemblyInfo.cs
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-02\NovoMenu 3\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.dll
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-02\NovoMenu 3\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.pdb
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-24(1)\NovoMenu 3 4\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.deps.json
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-24(1)\NovoMenu 3 4\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.runtimeconfig.json
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-24(1)\NovoMenu 3 4\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.runtimeconfig.dev.json
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-24(1)\NovoMenu 3 4\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.dll
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-24(1)\NovoMenu 3 4\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.pdb
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-24(1)\NovoMenu 3 4\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.csproj.AssemblyReference.cache
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-24(1)\NovoMenu 3 4\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-24(1)\NovoMenu 3 4\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.AssemblyInfoInputs.cache
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-24(1)\NovoMenu 3 4\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.AssemblyInfo.cs
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-24(1)\NovoMenu 3 4\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.dll
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-24(1)\NovoMenu 3 4\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.pdb
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-27(1)\NovoMenu 3tive ajuda\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.csproj.AssemblyReference.cache
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-27(1)\NovoMenu 3tive ajuda\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-27(1)\NovoMenu 3tive ajuda\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.AssemblyInfoInputs.cache
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-27(1)\NovoMenu 3tive ajuda\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.AssemblyInfo.cs
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-27(1)\NovoMenu 3tive ajuda\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.dll
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-27(1)\NovoMenu 3tive ajuda\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.pdb
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-27(1)\NovoMenu 3tive ajuda\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.deps.json
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-27(1)\NovoMenu 3tive ajuda\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.runtimeconfig.json
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-27(1)\NovoMenu 3tive ajuda\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.runtimeconfig.dev.json
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-27(1)\NovoMenu 3tive ajuda\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.dll
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-27(1)\NovoMenu 3tive ajuda\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.pdb
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-30\NovoMenu 3tive ajuda, ta indo agora\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.deps.json
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-30\NovoMenu 3tive ajuda, ta indo agora\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.runtimeconfig.json
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-30\NovoMenu 3tive ajuda, ta indo agora\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.runtimeconfig.dev.json
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-30\NovoMenu 3tive ajuda, ta indo agora\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.dll
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-30\NovoMenu 3tive ajuda, ta indo agora\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.pdb
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-30\NovoMenu 3tive ajuda, ta indo agora\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.csproj.AssemblyReference.cache
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-30\NovoMenu 3tive ajuda, ta indo agora\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-30\NovoMenu 3tive ajuda, ta indo agora\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.AssemblyInfoInputs.cache
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-30\NovoMenu 3tive ajuda, ta indo agora\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.AssemblyInfo.cs
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-30\NovoMenu 3tive ajuda, ta indo agora\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.dll
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-30\NovoMenu 3tive ajuda, ta indo agora\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.pdb
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-30\NovoMenu 3tive ajuda, n ta indo agora\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.deps.json
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-30\NovoMenu 3tive ajuda, n ta indo agora\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.runtimeconfig.json
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-30\NovoMenu 3tive ajuda, n ta indo agora\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.runtimeconfig.dev.json
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-30\NovoMenu 3tive ajuda, n ta indo agora\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.dll
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-30\NovoMenu 3tive ajuda, n ta indo agora\NovoMenu 2\NovoMenu\bin\Debug\netcoreapp2.1\NovoMenu.pdb
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-30\NovoMenu 3tive ajuda, n ta indo agora\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.csproj.AssemblyReference.cache
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-30\NovoMenu 3tive ajuda, n ta indo agora\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-30\NovoMenu 3tive ajuda, n ta indo agora\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.AssemblyInfoInputs.cache
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-30\NovoMenu 3tive ajuda, n ta indo agora\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.AssemblyInfo.cs
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-30\NovoMenu 3tive ajuda, n ta indo agora\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.dll
+C:\Users\LabInfo\Downloads\OneDrive_2024-09-30\NovoMenu 3tive ajuda, n ta indo agora\NovoMenu 2\NovoMenu\obj\Debug\netcoreapp2.1\NovoMenu.pdb
